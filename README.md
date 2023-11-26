@@ -1,12 +1,19 @@
 
 ✨ Hi there ✨
 
-<img src="https://camo.githubusercontent.com/50e5fe42456a664d3d35e7b1907475560b74cdce02c55b5f90cb9ef473e761f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d37373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/CSharp.svg" data-canonical-src="https://img.shields.io/badge/csharp-ffe6f2?style=flat-square&amp;logo=C#&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/c627263bfde5e853eef76b088f380460a4f2f2d909175eee6a77b42ca1a041c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f7374796c653d666c61742d737175617265266c6f676f3d43266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/318695bb8bb3f74e026bb85d3b3a94aaf489017986ea5384d10a789617ec00ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/1a2432fe733ac4772ad5036bd3f66738d9a9c4471bba0617c8ea93c34d54102a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Python-776AB?style=flat-square&logo=Python&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/C Sharp-512BD4?style=flat-square&logo=csharp&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=dotnet&logoColor=white" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Mongoose-F04D35?style=flat-square&logo=mongoosedotws&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" style="max-width: 100%;"> 
+
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white" style="max-width: 100%;"> 
+
+
+
+
+
+
 
 
 <!--
